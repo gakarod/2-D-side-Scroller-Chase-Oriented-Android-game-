@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "613704897787",
+    "firebase_url": "https://tomandjerry-d92f7.firebaseio.com",
+    "project_id": "tomandjerry-d92f7",
+    "storage_bucket": "tomandjerry-d92f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613704897787:android:e4ec93c1db2077fe",
+        "android_client_info": {
+          "package_name": "com.pointless.mariobros.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613704897787-364okicbcsa8nu5o13f110s4p68dfols.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pointless.mariobros.android",
+            "certificate_hash": "e7e216727239e70c06a58e868b410690f4b5ba50"
+          }
+        },
+        {
+          "client_id": "613704897787-l519o7g07ivnoi67d16ciuchl3rju963.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7kuCPUgyINO2kwKnnWj4LsKbw2qDqlXo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613704897787-l519o7g07ivnoi67d16ciuchl3rju963.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

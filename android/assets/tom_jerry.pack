@@ -1,0 +1,33 @@
+
+tom_jerry.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tom
+  rotate: false
+  xy: 1, 1
+  size: 230, 60
+  orig: 230, 60
+  offset: 0, 0
+  index: -1
+goomba
+  rotate: false
+  xy: 233, 36
+  size: 80, 25
+  orig: 80, 25
+  offset: 0, 0
+  index: -1
+jerry
+  rotate: false
+  xy: 233, 7
+  size: 58, 27
+  orig: 58, 27
+  offset: 0, 0
+  index: -1
+para
+  rotate: false
+  xy: 315, 31
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
